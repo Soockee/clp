@@ -1,0 +1,5 @@
+Dynamic0:high|dfl
+Dynamic1:level|dfl
+Dynamic2:LNKG|LNKD|LNKF|LNKH|LNKE
+Dynamic3:xinetd|gmetad|portmap
+Dynamic4:\/[a-z]*\/[a-z\.]*

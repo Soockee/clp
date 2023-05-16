@@ -1,0 +1,2 @@
+Dynamic0:destroy|spawn
+Dynamic1:disk|vcpu

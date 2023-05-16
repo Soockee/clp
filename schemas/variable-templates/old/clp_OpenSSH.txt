@@ -1,0 +1,9 @@
+Dynamic0:88\.147\.143\.242|183\.62\.140\.253|119\.4\.203\.64|104\.192\.3\.34|103\.207\.39\.16|187\.141\.143\.180|103\.99\.0\.122|185\.190\.58\.151|103\.207\.39\.212|175\.102\.13\.6|5\.188\.10\.180|103\.207\.39\.165|195\.154\.37\.122|183\.136\.162\.51|112\.95\.230\.3|202\.100\.179\.208|173\.234\.31\.186
+Dynamic1:none|password
+Dynamic2:sandeep|boot|cheng|dff|zhangyan|FILTER|cyrus|jay|ingrid|magnos|bssh|oralce|deploy|ubuntu|ghost|vnc|ted|abc|www|nagios|postgres|oracle|redhat|butter|eoor|api|Management|PlcmSpIp|pi|ftpuser|monitor|operator|cisco|ubnt|anonymous|matlab|guest|default|admin|test|support|inspur|utsims|pgadmin|chen|webmaster
+Dynamic3:sandeep|boot|cheng|dff|zhangyan|FILTER|jay|cyrus|ingrid|magnos|bssh|oralce|deploy|ubuntu|ghost|vnc|ted|abc|www|nagios|postgres|oracle|redhat|butter|eoor|api|Management|PlcmSpIp|pi|ftpuser|monitor|operator|cisco|ubnt|anonymous|matlab|guest|default|admin|test|support|inspur|utsims|pgadmin|chen|webmaster
+Dynamic4:admin|root
+Dynamic5:mysql|git|sshd|ftp|uucp|root
+Dynamic6:183\.62\.140\.253|60\.2\.12\.12|104\.192\.3\.34|103\.207\.39\.16|187\.141\.143\.180|103\.99\.0\.122|106\.5\.5\.195|103\.207\.39\.212|5\.188\.10\.180|195\.154\.37\.122|191\.210\.223\.172|123\.235\.32\.19|112\.95\.230\.3
+Dynamic7:failures?
+Dynamic8:119\.4\.203\.64|185\.190\.58\.151|5\.188\.10\.180

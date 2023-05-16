@@ -1,0 +1,3 @@
+Dynamic0:tmp|local
+Dynamic1:sc|cluster|root
+Dynamic2:var|cluster|usr|root|tmp|local|backup

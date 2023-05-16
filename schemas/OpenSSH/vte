@@ -1,0 +1,12 @@
+delimiters: :\{\}\(\)\[\]$,=\t\n\r;
+timestamp:[A-Za-z]{3} \d{2} \d{2}:\d{2}:\d{2}
+
+int:\-{0,1}[0-9]+
+
+hasNumber:.*\d.*
+
+Dynamic4:(admin)|(root)
+//Dynamic0:(Management)|(anonymous)|(webmaster)|(postgres)|(operator)|(zhangyan)|(PlcmSpIp)|(monitor)|(sandeep)|(default)|(support)|(pgadmin)|(ftpuser)|(ubuntu)|(inspur)|(FILTER)|(utsims)|(oracle)|(magnos)|(redhat)|(ingrid)|(matlab)|(oralce)|(butter)|(ssh)|(deploy)|(nagios)|(guest)|(chen)|(cheng)|(ghost)|(api)|(abc)|(cyrus)|(cisco)|(test)|(ubnt)|(boot)|(eoor)|(www)|(jay)|(vnc)|(ted)|(dff)|(pi)|(bssh)
+//Dynamic1:(password)|(none)
+//Dynamic4:(mysql)|(uucp)|(ftp)|(git)
+//Dynamic6:(failures)|(failure)

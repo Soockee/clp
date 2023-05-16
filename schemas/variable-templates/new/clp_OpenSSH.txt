@@ -1,0 +1,8 @@
+Dynamic0:Management|anonymous|webmaster|postgres|operator|zhangyan|PlcmSpIp|monitor|sandeep|default|support|pgadmin|ftpuser|ubuntu|inspur|FILTER|utsims|oracle|magnos|redhat|ingrid|matlab|oralce|b(?:utter|ssh)|deploy|nagios|guest|cheng?|ghost|a(?:dmin|pi|bc)|c(?:yrus|isco)|test|ubnt|boot|eoor|www|jay|vnc|ted|dff|pi
+Dynamic1:password|none
+Dynamic2:Management|anonymous|webmaster|PlcmSpIp|zhangyan|o(?:perator|ralce)|postgres|monitor|sandeep|ftpuser|de(?:fault|ploy)|support|pgadmin|nagios|butter|u(?:buntu|tsims|bnt)|ingrid|FILTER|inspur|oracle|ma(?:tlab|gnos)|redhat|cyrus|admin|c(?:heng?|isco)|g(?:ho|ue)st|boot|eoor|bssh|test|vnc|ted|api|dff|jay|www|abc|pi
+Dynamic3:1(?:87(?-s:.)141(?-s:.)143(?-s:.)180|73(?-s:.)234(?-s:.)31(?-s:.)186|1(?:2(?-s:.)95(?-s:.)230(?-s:.)3|9(?-s:.)4(?-s:.)203(?-s:.)64)|03(?-s:.)(?:99(?-s:.)0(?-s:.)122|207(?-s:.)39(?-s:.)212)|83(?-s:.)62(?-s:.)140(?-s:.)253|75(?-s:.)102(?-s:.)13(?-s:.)6|95(?-s:.)154(?-s:.)37(?-s:.)122)|202(?-s:.)100(?-s:.)179(?-s:.)208|1(?:03(?-s:.)207(?-s:.)39(?-s:.)165?|85(?-s:.)190(?-s:.)58(?-s:.)151)|88(?-s:.)147(?-s:.)143(?-s:.)242|183(?-s:.)136(?-s:.)162(?-s:.)51|5(?-s:.)188(?-s:.)10(?-s:.)180|104(?-s:.)192(?-s:.)3(?-s:.)34
+Dynamic4:mysql|root|sshd|uucp|ftp|git
+Dynamic5:1(?:91(?-s:.)210(?-s:.)223(?-s:.)172|87(?-s:.)141(?-s:.)143(?-s:.)180|95(?-s:.)154(?-s:.)37(?-s:.)122|03(?-s:.)207(?-s:.)39(?-s:.)(?:212|16)|83(?-s:.)62(?-s:.)140(?-s:.)253|23(?-s:.)235(?-s:.)32(?-s:.)19|03(?-s:.)99(?-s:.)0(?-s:.)122|12(?-s:.)95(?-s:.)230(?-s:.)3|04(?-s:.)192(?-s:.)3(?-s:.)34)|5(?-s:.)188(?-s:.)10(?-s:.)180|106(?-s:.)5(?-s:.)5(?-s:.)195|60(?-s:.)2(?-s:.)12(?-s:.)12
+Dynamic6:failures?
+Dynamic7:185(?-s:.)190(?-s:.)58(?-s:.)151|5(?-s:.)188(?-s:.)10(?-s:.)180|119(?-s:.)4(?-s:.)203(?-s:.)64

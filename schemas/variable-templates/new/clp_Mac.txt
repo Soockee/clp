@@ -1,0 +1,11 @@
+Dynamic0:Scan|TCP
+Dynamic1:Timeout|offload
+Dynamic2:(?:Der|R)egisterInterface
+Dynamic3:on(?:Sleep|Wake)
+Dynamic4:Yes|No
+Dynamic5:(?:Assoc|Roam|Auth)Fail|DeauthInd
+Dynamic6:(?:Ina|A)ctive
+Dynamic7:2017-07-0(?:([15])|[3-46-8])
+Dynamic8:CalendarAgent|apsd
+Dynamic9:(?:Copy|Set)Property
+Dynamic10:A(?:ssoc|uth)Fail

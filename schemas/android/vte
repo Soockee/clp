@@ -1,0 +1,16 @@
+delimiters: :\{\}\(\)\[\]$,=\t\n\r
+timestamp:\d{2}\-\d{2} \d{2}:\d{2}:\d{2}\.\d{3}
+
+int:\-{0,1}[0-9]+
+double:\-{0,1}[0-9]+\.[0-9]+
+
+hasNumber:.*\d.*
+
+//Dynamic0:(com.android.systemui)|(com.android.systemuiphone)|(audioserver)|(android)
+Dynamic1:(WorkSource)|(null)
+Dynamic2:(getRunningAppProcesses)|(getTasks)
+//Dynamic3:com(?-s:.)(?:example(?-s:.)android(?-s:.)notepad|tencent(?-s:.)(?:mobileqq|qt(?-s:.)qtl))|InputMethod|PopupWindow
+Dynamic4:(begin)|(end)
+//Dynamic5:com(?-s:.)tencent(?-s:.)(?:qqmusic|mm)
+//Dynamic6:(?-s:.)(?:business(?-s:.)lockscreen(?-s:.)LockScreen|plugin(?-s:.)base(?-s:.)stub(?-s:.)WXEntry)Activity
+

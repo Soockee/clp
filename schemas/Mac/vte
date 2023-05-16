@@ -1,0 +1,16 @@
+delimiters: :\{\}\(\)\[\],\t\n$=_<>\.
+timestamp:[A-Z]{3}  \d \d{2}:\d{2}:\d{2}
+
+int:\-{0,1}[0-9]+
+
+hasNumber:.*\d.*
+
+Dynamic0:(TCP)|(Scan)
+Dynamic1:(Timeout)|(offload)
+Dynamic3:(onWake)|(onSleep)
+Dynamic11:(CopyProperty)|(SetProperty)
+Dynamic14:(AssocFail)|(AuthFail)|(RoamFail)|(DeauthInd)
+Dynamic2:(DeregisterInterface)|(RegisterInterface)
+Dynamic4:(Yes)|(No)
+Dynamic6:(Inactive)|(Active)
+Dynamic8:(CalendarAgent)|(apsd)

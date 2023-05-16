@@ -1,0 +1,6 @@
+Dynamic0:"AudioMix"|"WiredAccessoryManager"|"handleAudioEvent"|"\*launch\*"|"RILJ_ACK_WL"|"View Lock"
+Dynamic1:audioserver|android|com\.android\.phone|com\.android\.systemui
+Dynamic2:(WorkSou)(rce|ll)|(nu)(rce|ll)
+Dynamic3:"handleAudioEvent"|"WiredAccessoryManager"|"RILJ_ACK_WL"|"AudioMix"|"SCREEN_FROZEN"|"WindowManager"|"\*launch\*"|"View Lock"
+Dynamic4:com\.android\.phone|audioserver|android|com\.android\.systemui
+Dynamic5:com\.example\.android\.notepad|com\.tencent\.mobileqq|PopupWindow|com\.tencent\.qt\.qtl

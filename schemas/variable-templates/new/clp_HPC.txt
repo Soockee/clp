@@ -1,0 +1,3 @@
+Dynamic0:local|tmp
+Dynamic1:cluster|root|sc
+Dynamic2:cluster|(?:backu|tm)p|local|root|var|usr

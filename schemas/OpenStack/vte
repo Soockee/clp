@@ -1,0 +1,9 @@
+delimiters: \{\}\(\)\[\]$,=\t\n
+
+int:[0-9]+
+double:[0-9]+\.[0-9]+
+
+hasNumber:.*\d.*
+
+Dynamic0:(destroy)|(spawn)
+//Dynamic1:(disk)|(vcpu)

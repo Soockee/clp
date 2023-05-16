@@ -1,0 +1,2 @@
+Dynamic0:LNK(?:([DF])|[EG-H])
+Dynamic1:/etc/xinetd(?-s:.)(?:d/(?:chargen-udp|time(?:-udp)?|daytime|k(?:login|talk)|rsync|gssftp)|conf|d/(?:cups-lpd|tftp|eklogin|daytime-udp|echo(?:-udp)?|kshell))

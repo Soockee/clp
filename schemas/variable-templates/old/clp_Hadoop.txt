@@ -1,0 +1,15 @@
+Dynamic0:$TaskAttemptEventDispatcher|$TaskEventDispatcher|$JobEventDispatcher|$EventType
+Dynamic1:$ContainerLauncherRouter|$SpeculatorEventDispatcher|$ContainerAllocatorRouter
+Dynamic2:(SE)(TUP|W)|(NE)(TUP|W)
+Dynamic3:static|mapreduce
+Dynamic4:([mr])
+Dynamic5:RUNNING|NEW
+Dynamic6:ASSIGNED|NEW
+Dynamic7:jar|conf
+Dynamic8:After|Before
+Dynamic9:CLEANUP|LAUNCH
+Dynamic10:(SU)(CCESS|NNING)|(RU)(CCESS|NNING)
+Dynamic11:FAIL|SUCCEEDED|SUCCESS
+Dynamic12:FAILED|CONTAINER
+Dynamic13:Task|Diagnostics
+Dynamic14:m|Error

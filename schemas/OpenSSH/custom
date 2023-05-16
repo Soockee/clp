@@ -1,0 +1,6 @@
+delimiters: :\{\}\(\)\[\]$,=\t\n
+timestamp:[A-Za-z]{3} \d{2} \d{2}:\d{2}:\d{2}
+
+int:\-{0,1}[0-9]+
+
+hasNumber:.*\d.*

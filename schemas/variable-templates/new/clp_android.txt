@@ -1,0 +1,7 @@
+Dynamic0:com(?-s:.)android(?-s:.)(?:systemui|phone)|a(?:udioserver|ndroid)
+Dynamic1:WorkSource|null
+Dynamic2:get(?:RunningAppProcesse|Task)s
+Dynamic3:com(?-s:.)(?:example(?-s:.)android(?-s:.)notepad|tencent(?-s:.)(?:mobileqq|qt(?-s:.)qtl))|InputMethod|PopupWindow
+Dynamic4:begin|end
+Dynamic5:com(?-s:.)tencent(?-s:.)(?:qqmusic|mm)
+Dynamic6:(?-s:.)(?:business(?-s:.)lockscreen(?-s:.)LockScreen|plugin(?-s:.)base(?-s:.)stub(?-s:.)WXEntry)Activity

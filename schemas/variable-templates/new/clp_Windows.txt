@@ -1,0 +1,9 @@
+Dynamic0:RollupFix|Microsoft
+Dynamic1:Windows|Hyper
+Dynamic2:PlatformUpdate|Embedded|RDP
+Dynamic3:EmbeddedLockdown|Integration|(?:Blue|Win)IP
+Dynamic4:Services|TopLevel
+Dynamic5:COMPONENTS|S(?:ECURITY|OFTWARE)|DEFAULT|S(?:YSTE|A)M
+Dynamic6:default|Windows
+Dynamic7:config|store
+Dynamic8:COMPONENTS|S(?:ECURITY|OFTWARE)|Machine|DEFAULT|S(?:YSTEM|AM)

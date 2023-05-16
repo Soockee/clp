@@ -1,0 +1,10 @@
+delimiters: :\{\}\(\)\[\]$<>,=\t\n@
+timestamp: \d \d{4}\.\d{2}\.\d{2}
+
+int:\-{0,1}[0-9]+
+//double:\-{0,1}[0-9]+\.[0-9]+
+
+hasNumber:.*\d.*
+
+Dynamic0:(LNKG)|(LNKD)|(LNKF)|(LNKH)|(LNKE)
+//Dynamic1:/etc/xinetd(?-s:.)(?:d/(?:chargen-udp|time(?:-udp)?|daytime|k(?:login|talk)|rsync|gssftp)|conf|d/(?:cups-lpd|tftp|eklogin|daytime-udp|echo(?:-udp)?|kshell))
